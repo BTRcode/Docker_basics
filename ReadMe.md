@@ -1,6 +1,6 @@
 #### Docker commands ###
 
-* docker build <dir_of_Dockerfile (where the Docker file exists)> -t <name_of_dir_that_you_wanna_run(your_wish)>
+* docker build < dir_of_Dockerfile (where the Docker file exists)> -t < name_of_dir_that_you_wanna_run(your_wish) >
 
 The above command exceutes the command that are there in the Dockerfile.
 
